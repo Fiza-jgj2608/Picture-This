@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,700&display=swap');
-
 html,
 body {
   margin: 0;
   border: 0;
   font-family: 'Roboto', sans-serif;
 }
-
 .header {
   display: grid;
   grid-template-columns: 1fr;
